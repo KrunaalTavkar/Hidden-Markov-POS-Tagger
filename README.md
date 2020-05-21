@@ -1,5 +1,5 @@
 # Hidden-Markov-POS-Tagger
-Designed and Implemented a Hidden Markov Model Part-of-Speech tagger from scratch, for Italian, Japanese and Hindi languages.
+Designed and Implemented a Hidden Markov Model Part-of-Speech tagger from scratch, for Italian, Japanese and Hindi.
 
 # Description
 Implemented a Hidden Markov Model Part-of-Speech tagger (built from the ground up, without using existing libraries) to tag Italian, Japanese and Hindi text corpora. The training data is tokenized and tagged and the testing data is tokenized and has been tagged by the Hidden Markov Model.
